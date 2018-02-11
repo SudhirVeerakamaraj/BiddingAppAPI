@@ -1,0 +1,7 @@
+*/bin/*
+**/obj/*
+*/Scripts/*
+/packages/*
+/packages/**/*.*
+/.vs/BiddingApp/v14/.suo
+/.vs/config/applicationhost.config
